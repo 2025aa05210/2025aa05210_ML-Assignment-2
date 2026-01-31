@@ -2,7 +2,7 @@
 
 The goal of this project is to build, test, and deploy multiple machine learning classification models using a real dataset. The project shows the complete machine learning process starting from data preparation, model training, performance evaluation, and finally deploying the models using a Streamlit web application.
 
-**b. **Dataset Description**
+**b. Dataset Description**
 
 The dataset used in this project is the MNIST Handwritten Digits Dataset, which is a well-known and publicly available dataset for classification problems.
 
@@ -38,7 +38,7 @@ XGBoost (Ensemble Model)
 
 Evaluation Metrics
 
-To compare the models, the following metrics were used:
+**To compare the models, the following metrics were used:**
 
 Accuracy
 
@@ -123,6 +123,7 @@ https://ml-assignment-2-btbetkqpfq9ltmuhtebnz8.streamlit.app/
 **Conclusion**
 
 This project successfully demonstrates the complete machine learning workflow, from training multiple models to deploying them in a live web application. All assignment requirements for ML Assignment 2 have been fulfilled.
+
 
 
 
