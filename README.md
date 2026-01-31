@@ -93,16 +93,30 @@ https://ml-assignment-2-btbetkqpfq9ltmuhtebnz8.streamlit.app/
 **Repository Structure**
 
 ML-Assignment-2/
-│-- app.py
-│-- requirements.txt
-│-- README.md
-│-- model/
-│    ├── logistic_regression.pkl
-│    ├── decision_tree.pkl
-│    ├── naive_bayes.pkl
-│    ├── random_forest.pkl
-│    ├── xgboost.pkl
-│    └── model_training.ipynb
+-- app.py
+-- requirements.txt
+-- README.md
+
+ML-Assignment-2/
+-- app.py
+-- requirements.txt
+-- README.md
+
+-- model/
+logistic_regression.pkl
+decision_tree.pkl
+ naive_bayes.pkl
+random_forest.pkl
+ xgboost.pkl
+model_training.ipynb
+
+ model/
+logistic_regression.pkl
+decision_tree.pkl
+naive_bayes.pkl
+random_forest.pkl
+xgboost.pkl
+ model_training.ipynb
 
 
 **Deployment**
@@ -122,5 +136,6 @@ https://ml-assignment-2-btbetkqpfq9ltmuhtebnz8.streamlit.app/
 **Conclusion**
 
 This project successfully demonstrates the complete machine learning workflow, from training multiple models to deploying them in a live web application. All assignment requirements for ML Assignment 2 have been fulfilled.
+
 
 
