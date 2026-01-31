@@ -91,6 +91,7 @@ See the confusion matrix and classification report
 https://ml-assignment-2-btbetkqpfq9ltmuhtebnz8.streamlit.app/
 
 **Repository Structure**
+
 ML-Assignment-2/
 │-- app.py
 │-- requirements.txt
@@ -102,6 +103,7 @@ ML-Assignment-2/
 │    ├── random_forest.pkl
 │    ├── xgboost.pkl
 │    └── model_training.ipynb
+
 
 **Deployment**
 
@@ -120,4 +122,5 @@ https://ml-assignment-2-btbetkqpfq9ltmuhtebnz8.streamlit.app/
 **Conclusion**
 
 This project successfully demonstrates the complete machine learning workflow, from training multiple models to deploying them in a live web application. All assignment requirements for ML Assignment 2 have been fulfilled.
+
 
